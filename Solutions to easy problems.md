@@ -1,5 +1,5 @@
 # The-Wala-Journey-Begins
-Starting the journey with some easy solutions and problems
+Below are solutions for some easy problems
 
 1) Creating a function that counts the number of syllables a word has. Each syllable is separated with a dash -.
 
