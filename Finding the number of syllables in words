@@ -1,0 +1,14 @@
+int numberSyllables(std::string word) 
+{
+	int syllables = 1;
+	int i;
+	for (i = 0; i < word[i] ; i++)
+	{
+		if(word[i] == '-')
+		{
+			syllables++;
+		}
+	}
+	printf("The number of syllables is %i", syllables);
+	return syllables; 
+}
